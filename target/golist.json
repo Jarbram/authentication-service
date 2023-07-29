@@ -1,0 +1,1 @@
+{"version":"v1","main":"authentication-service","packages":[{"package":"github.com/gorilla/mux","version":"1.8.0"},{"package":"github.com/golang-jwt/jwt","version":"3.2.2"}]}
